@@ -10,3 +10,14 @@ $ npm -v
 8.1.2
 $
 ```
+
+## Create React App
+
+- [React TypeScript Cheetsheet](https://react-typescript-cheatsheet.netlify.app/)
+
+```
+$ npx create-react-app myapp --template typescript
+$ cd myapp
+$ npm start
+$ 
+```
